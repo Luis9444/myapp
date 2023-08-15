@@ -1,0 +1,14 @@
+.cartelcontainer{
+ 
+    border: 5px solid red;
+    width: 100px;
+    height: 30px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.cartelcontainer:hover{
+    background-image: url("/src/img/painting-mountain-lake-with-mountain-background.jpg");
+
+
+}
